@@ -10,6 +10,7 @@ use of arduino nano as serial reader
 
 - programmer : AVRISP mkII
 - `ctrl+shift+p arduino board config` : Arduno Nano / ATmega328P (Old Bootloader)
+- `ctrl+alt+u` to upload
 
 ## references
 
