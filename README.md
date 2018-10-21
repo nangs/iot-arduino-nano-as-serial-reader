@@ -4,7 +4,7 @@ use of arduino nano as serial reader
 
 ## prerequisites
 
-- [arduino ide](https://www.arduino.cc/en/Main/Software) and optionally [vscode arduino](https://github.com/devel0/knowledge/blob/master/electronics/vscode-arduino.md)
+- [vscode arduino](https://github.com/devel0/knowledge/blob/master/electronics/vscode-arduino.md)
 
 ## build
 
